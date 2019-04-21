@@ -1,2 +1,2 @@
 # PythonAESCipher
-Python Encryption and Decryption using AES
+Python Encryption and Decryption using AES Cipher
